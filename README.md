@@ -1,6 +1,6 @@
 # Day-1
-Задания:
+Tasks:
 
-1. Реализовать методы быстрой сортировки и сортировки слиянием для
-целочисленного массива. Протестировать работу методов в консольном
-приложении или с помощью модульного тестирования. (залить на github).
+1. Implement quick sort and sort methods
+integer array. Test the methods in the console
+applications or through unit testing. (upload to github).
